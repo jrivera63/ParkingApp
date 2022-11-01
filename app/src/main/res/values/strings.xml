@@ -1,13 +1,14 @@
 <resources>
-    <string name="app_name">ParkingApp</string>
-    <string name="txtTitle">Parking Charges</string>
-    <string name="txtHours">Number of Hours</string>
-    <string name="txtBtnCharge">Calculate Charges</string>
-    <string name="prompt">Select Lot:</string>
+    <string name="app_name">Tip App</string>
+    <string name="txtTitle">Tip Calculator</string>
+    <string name="txtPrice">Price of Meal:</string>
+    <string name="txtBtnCharge">Calculate Tip</string>
+    <string name="prompt">Select Tip Percent(%):</string>
     <string-array name="textGroup">
-        <item>Lot A</item>
-        <item>Lot B</item>
-        <item>Lot C</item>
-        <item>Lot D</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
     </string-array>
 </resources>
